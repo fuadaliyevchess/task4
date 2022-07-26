@@ -1,0 +1,24 @@
+*{
+    margin: 20px;
+    padding: 0;
+}
+.box{
+    display: flex;
+}
+.box > div{
+    width: 30%;
+    border: ridge;
+
+}
+.box .foods img{
+    width: 200px;
+    height: 100px;
+    margin-left: 80px;
+}
+.box .foods button{
+    background-color: rgb(42, 161, 201);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
